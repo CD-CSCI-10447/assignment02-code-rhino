@@ -19,7 +19,7 @@ public class Problem {
      */
     public static Integer doubleXX(String x) {
 
-        return null;
+        return 2;
     }
 
 
